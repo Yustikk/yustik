@@ -1,0 +1,14 @@
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\bin\Debug\net8.0\TurnBasedCombat.exe
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\bin\Debug\net8.0\TurnBasedCombat.deps.json
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\bin\Debug\net8.0\TurnBasedCombat.runtimeconfig.json
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\bin\Debug\net8.0\TurnBasedCombat.dll
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\bin\Debug\net8.0\TurnBasedCombat.pdb
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\TurnBasedCombat.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\TurnBasedCombat.AssemblyInfoInputs.cache
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\TurnBasedCombat.AssemblyInfo.cs
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\TurnBasedCombat.csproj.CoreCompileInputs.cache
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\TurnBasedCombat.dll
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\refint\TurnBasedCombat.dll
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\TurnBasedCombat.pdb
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\TurnBasedCombat.genruntimeconfig.cache
+E:\VisualNovelForm\TurnBasedCombat\TurnBasedCombat\obj\Debug\net8.0\ref\TurnBasedCombat.dll
