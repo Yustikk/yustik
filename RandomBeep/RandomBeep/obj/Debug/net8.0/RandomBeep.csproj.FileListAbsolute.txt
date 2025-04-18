@@ -1,0 +1,14 @@
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\RandomBeep.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\RandomBeep.AssemblyInfoInputs.cache
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\RandomBeep.AssemblyInfo.cs
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\RandomBeep.csproj.CoreCompileInputs.cache
+E:\VisualNovelForm\RandomBeep\RandomBeep\bin\Debug\net8.0\RandomBeep.exe
+E:\VisualNovelForm\RandomBeep\RandomBeep\bin\Debug\net8.0\RandomBeep.deps.json
+E:\VisualNovelForm\RandomBeep\RandomBeep\bin\Debug\net8.0\RandomBeep.runtimeconfig.json
+E:\VisualNovelForm\RandomBeep\RandomBeep\bin\Debug\net8.0\RandomBeep.dll
+E:\VisualNovelForm\RandomBeep\RandomBeep\bin\Debug\net8.0\RandomBeep.pdb
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\RandomBeep.dll
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\refint\RandomBeep.dll
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\RandomBeep.pdb
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\RandomBeep.genruntimeconfig.cache
+E:\VisualNovelForm\RandomBeep\RandomBeep\obj\Debug\net8.0\ref\RandomBeep.dll
