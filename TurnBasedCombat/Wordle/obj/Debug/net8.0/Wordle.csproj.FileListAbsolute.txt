@@ -1,0 +1,14 @@
+E:\VisualNovelForm\Wordle\Wordle\bin\Debug\net8.0\Wordle.exe
+E:\VisualNovelForm\Wordle\Wordle\bin\Debug\net8.0\Wordle.deps.json
+E:\VisualNovelForm\Wordle\Wordle\bin\Debug\net8.0\Wordle.runtimeconfig.json
+E:\VisualNovelForm\Wordle\Wordle\bin\Debug\net8.0\Wordle.dll
+E:\VisualNovelForm\Wordle\Wordle\bin\Debug\net8.0\Wordle.pdb
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\Wordle.AssemblyInfoInputs.cache
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\Wordle.AssemblyInfo.cs
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\Wordle.csproj.CoreCompileInputs.cache
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\Wordle.dll
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\refint\Wordle.dll
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\Wordle.pdb
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\Wordle.genruntimeconfig.cache
+E:\VisualNovelForm\Wordle\Wordle\obj\Debug\net8.0\ref\Wordle.dll
